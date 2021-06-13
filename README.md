@@ -10,3 +10,6 @@ Algoritma Genetika adalah salah satu algoritma evolutionary yang paling populer 
 4. Memilih individu dengan nilai kecocokan paling tinggi
 5. Kombinasi antar individu terpilih dalam populasi dan mutasi individu dengan tingkat tertentu untuk membentuk populasi baru
 6. Proses 3 diulang sampai mendapatkan solusi terbaik
+
+Untuk Traveling Salesman Problem :<br>
+[Open](https://github.com/alanCatur/Tugas_Genetic-Algorithm/blob/main/GeneticAlgorithmTSP_AlanCaturNugraha_06111840000100.ipynb)
