@@ -16,4 +16,4 @@ Untuk Traveling Salesman Problem :<br>
 Untuk Clustering :<br>
 [Open](https://github.com/alanCatur/Tugas_Genetic-Algorithm/blob/main/Klastering%20Algoritma%20Genetika%20.ipynb)
 
-_source: _RinRoya__
+_source: _GitHub/RinRoya__
