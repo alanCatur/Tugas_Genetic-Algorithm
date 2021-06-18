@@ -13,7 +13,7 @@ Algoritma Genetika adalah salah satu algoritma evolutionary yang paling populer 
 
 Untuk Traveling Salesman Problem :<br>
 [Open](https://github.com/alanCatur/Tugas_Genetic-Algorithm/blob/main/GeneticAlgorithmTSP_AlanCaturNugraha_06111840000100.ipynb)
-Untuk Clustering
+Untuk Clustering :<br>
 [Open](https://github.com/alanCatur/Tugas_Genetic-Algorithm/blob/main/Klastering%20Algoritma%20Genetika%20.ipynb)
 
 _source: _RinRoya__
